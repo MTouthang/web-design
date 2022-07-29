@@ -2,7 +2,7 @@
 -----
 A simple landing page demo of a "Web Design" website
 
-![Build with -](https://img.shields.io/badge/Build%20with-HTML%26CSS-orange) ![Time taken](https://img.shields.io/badge/Time%20Taken-01%20hrs%20%2040%20mins-blue) [![Project demo](https://img.shields.io/badge/Live%20Demo-Click%20me-success)](https://webdesign.netlify.app/ "project demo")[![Project author](https://img.shields.io/badge/Author-Ngamlenmang%20Touthang-9cf)](https://github.com/MTouthang/ "MTouthang")
+![Build with -](https://img.shields.io/badge/Build%20with-HTML%26CSS-orange) ![Time taken](https://img.shields.io/badge/Time%20Taken-01%20hrs%20%2040%20mins-blue) [![Project demo](https://img.shields.io/badge/Live%20Demo-Click%20me-success)](https://webdesignio.netlify.app/ "project demo")[![Project author](https://img.shields.io/badge/Author-Ngamlenmang%20Touthang-9cf)](https://github.com/MTouthang/ "MTouthang")
 
 
 ### Things Learn from the project
