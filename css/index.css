@@ -118,11 +118,23 @@ nav {
     }
     /***** nav ******/
     nav {
-    
         display: flex;
         margin: 0 6%;
+        margin-top: 3%;
         justify-content: space-between;
         padding: 20px 0px
+    }
+    nav > img {
+        width: 80px;
+    }
+    .signin-btn {
+        padding: 0px 25px;
+        border-radius: 30px;
+        border: none;
+        height: 30px;
+        margin-top: 5px;
+        
+       
     }
     .vector-img{
         position: absolute;
@@ -130,7 +142,7 @@ nav {
         left: -3%}
     .vector-dot{
         position: absolute;
-        bottom: 28%;
+        bottom: 30%;
         left: 10%;
     }
 }
