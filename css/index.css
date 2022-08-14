@@ -126,11 +126,13 @@ nav {
     .vector-img{
         position: absolute;
         bottom: 10%;
-        left: -1%}
+        left: -3%;
+        width: 85px
+    }
     .vector-dot{
         position: absolute;
-        bottom: 28%;
-        left: 10%;
+        bottom: 24%;
+        left: 8%;
     }
 }
 
