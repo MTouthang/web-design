@@ -81,7 +81,6 @@ nav {
 }
 .main-hero{
     width: 760px;
-    
 }
 
 .vector-img{
@@ -99,7 +98,7 @@ nav {
     
     body {
         background-position: right top;
-        background-size: 550px;
+        background-size: 480px ;
     }
     .nav-items {
         display: none;
@@ -110,9 +109,11 @@ nav {
         flex-direction: column-reverse;
         margin-left: 6%;
         margin-right: 6%;     
+        margin-bottom: 4%;
     }
     .main-hero{
-        width: 490px;
+        width: 390px;
+
         
     }
     /***** nav ******/
@@ -126,13 +127,11 @@ nav {
     .vector-img{
         position: absolute;
         bottom: 10%;
-        left: -3%;
-        width: 85px
-    }
+        left: -3%}
     .vector-dot{
         position: absolute;
-        bottom: 24%;
-        left: 8%;
+        bottom: 28%;
+        left: 10%;
     }
 }
 
