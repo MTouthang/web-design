@@ -12,13 +12,10 @@ A simple landing page demo of a "Web Design" website
 ![CSS](https://img.shields.io/badge/-Positioning%20and%20flex%20box%20-orange)
 ![svg](https://img.shields.io/badge/svg-working%20with%20svg%20image-lightgrey)
 ![background-img](https://img.shields.io/badge/-background--image%20handling-brightgreen)
-
+![media query](https://img.shields.io/badge/media%20query-min--width%20and%20max--width-red)
 ### ScreenShot
 ![Project screenshot](./thumbnail.png)
 
-### Note 
-- This is only a WebApp with desktop screen compatible only.
-- Mobile responsive will be added soon.   
-
+**Responsive and Mobile friendly**
 
 *--------------------------------------------- Feel free to fork and play around ----------------------------------------*
